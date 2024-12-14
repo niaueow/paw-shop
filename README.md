@@ -6,6 +6,6 @@ Click here:
 <br> [![View Figma Prototype](paw-shop-button.svg)](https://www.figma.com/proto/Z9TBxDA9MS63Wrhi66n8Vl/Prototype-Paw-Shop?node-id=393-172&t=xpR0XWlAzgLmnpXs-1)
 
 # Team Members
--Indira 062 <br>
--[@marsyaaurl](https://github.com/marsyaaurl) 067 <br>
--[@niaueow](https://github.com/niaueow) 071 
+Indira <br>
+[@marsyaaurl](https://github.com/marsyaaurl) <br>
+[@niaueow](https://github.com/niaueow) 
